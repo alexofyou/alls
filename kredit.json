@@ -1,0 +1,41 @@
+[
+  {
+	"name": "Тинькофф",
+    "image_url": "http://zaem-online.kz/img/alfa.png",
+    "sum": "15 000 - 20 000",
+	"term": "5 - 100",
+	"percent": "1,50%",
+    "url": "http://minfin.ru",
+    "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Работает круглосуточно",
+        "license": "Свидетельство №2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Паспорт",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+  },
+  
+  {
+	"name": "МТС банк",
+    "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
+    "sum": "400 - 15 000",
+	"term": "5 - 100",
+	"percent": "1,85%",
+    "url": "http://minfin.ru",
+      "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Работает круглосуточно",
+        "license": "Свидетельство №2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Паспорт",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+  }
+]
