@@ -14,7 +14,7 @@
 "sum_one": "от 1 000 руб",
  
 
-   "period" = "7 - 30 дней",
+   "period": "7 - 30 дней",
      "url": "https://google.com",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
@@ -48,7 +48,7 @@
     "percent": "1%",
 	"sum_max": "от 50 000 руб",
 	"sum_one": "от 1 000 руб",
-	  "period" = "7 - 30 дней",
+	  "period": "7 - 30 дней",
      "url": "https://google.com",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
@@ -80,7 +80,7 @@
     "percent": "1%",
 	"sum_max": "от 50 000 руб",
 	"sum_one": "от 1 000 руб",
-    "period" = "7 - 30 дней",
+    "period": "7 - 30 дней",
      "url": "https://google.com",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
